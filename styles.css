@@ -1,0 +1,6 @@
+/* Extension ---> Tailwind CSS IntelliSense */
+@import "tailwindcss";
+
+*{
+  font-family: "Manrope", sans-serif;
+}
